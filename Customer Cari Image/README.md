@@ -3,10 +3,6 @@ https://github.com/kaankaltakkiran/Customer_cari_PHP
 
 ## Site Resimleri
 
-## Customer_cari_PHP
-[https://github.com/kaankaltakkiran/Customer_cari_PHP](https://github.com/kaankaltakkiran/Customer_cari_PHP)
-
-## Site Resimleri
 ![Screenshot_1](https://github.com/kaankaltakkiran/php_image/assets/98158194/07036c4a-bb59-4996-b284-a17d31198474)
 
 ![Screenshot_2](https://github.com/kaankaltakkiran/php_image/assets/98158194/b1e931c5-992b-4da7-8408-14707a1c956a)
