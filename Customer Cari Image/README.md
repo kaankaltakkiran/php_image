@@ -5,7 +5,7 @@ https://github.com/kaankaltakkiran/Customer_cari_PHP
 
 ![Screenshot_1](https://github.com/kaankaltakkiran/php_image/assets/98158194/07036c4a-bb59-4996-b284-a17d31198474)
 
-![Screenshot_2](https://github.com/kaankaltakkiran/php_image/assets/98158194/b1e931c5-992b-4da7-8408-14707a1c956a)
+![Screenshot_17](https://github.com/kaankaltakkiran/php_image/assets/98158194/2570c099-fa1a-4964-a508-729e2d842fb3)
 
 ![Screenshot_3](https://github.com/kaankaltakkiran/php_image/assets/98158194/55018651-934d-4442-a326-1ca8c3e020be)
 
