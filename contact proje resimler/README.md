@@ -1,7 +1,4 @@
-## Contact
-https://github.com/kaankaltakkiran/Contact-php
-
-## Site Resimleri
+# Site Resimleri
 
 ![Screenshot_1](https://github.com/kaankaltakkiran/php_video/assets/98158194/7a3c6aa4-af2c-47b6-9a68-7cfeea7d626e)
 

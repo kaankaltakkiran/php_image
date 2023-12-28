@@ -1,6 +1,3 @@
-## Hospital System
-[(https://github.com/kaankaltakkiran/Hospital_System-Php)](https://github.com/kaankaltakkiran/Hospital_System-Php)
-
 # Site Resimleri
 ![Screenshot_1](https://github.com/kaankaltakkiran/php_video/assets/98158194/1d3a8446-0d88-4288-9060-a69d940e789b)
 

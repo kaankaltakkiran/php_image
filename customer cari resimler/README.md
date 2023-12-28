@@ -1,7 +1,4 @@
-## Customer Cari
-https://github.com/kaankaltakkiran/Customer_cari_PHP
-
-## Site Resimleri
+# Site Resimleri
 
 ![Screenshot_1](https://github.com/kaankaltakkiran/php_image/assets/98158194/07036c4a-bb59-4996-b284-a17d31198474)
 

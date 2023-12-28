@@ -1,8 +1,4 @@
-## Shop
-https://github.com/kaankaltakkiran/Shop-Php
-
-
-## Site Resimleri
+# Site Resimleri
 ![Screenshot_1](https://github.com/kaankaltakkiran/php_image/assets/98158194/bf4e6379-ecfa-4a67-8bea-8afd418a97d0)
 
 ![Screenshot_2](https://github.com/kaankaltakkiran/php_image/assets/98158194/5ecacd93-7948-473a-8aac-b4a98919abab)
