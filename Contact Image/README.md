@@ -21,10 +21,10 @@ https://github.com/kaankaltakkiran/Contact-php
 
 ![Screenshot_9](https://github.com/kaankaltakkiran/php_video/assets/98158194/810a02c6-45fd-4857-9f75-f72c178e4893)
 
-![Screenshot_10](https://github.com/kaankaltakkiran/php_video/assets/98158194/59648c75-52b0-4c3c-8440-0efdbfda0774)
+![Screenshot_15](https://github.com/kaankaltakkiran/php_image/assets/98158194/ae1a36ad-0656-48ea-9a59-2f9b07ba6d67)
 
-![Screenshot_11](https://github.com/kaankaltakkiran/php_video/assets/98158194/183b2110-e0a8-47e3-a154-3c4d5052f646)
+![Screenshot_16](https://github.com/kaankaltakkiran/php_image/assets/98158194/5d2e8934-4076-4702-bcde-31c738504d48)
 
-![Screenshot_12](https://github.com/kaankaltakkiran/php_video/assets/98158194/19ad76ea-bb32-4577-aed7-4d705d8e4d8f)
+![Screenshot_17](https://github.com/kaankaltakkiran/php_image/assets/98158194/e35ef2a9-8571-4181-babd-000f8bc3a8f6)
 
 ![Screenshot_13](https://github.com/kaankaltakkiran/php_video/assets/98158194/9d70b2df-b9ee-4b31-9858-7612feaa63e7)
