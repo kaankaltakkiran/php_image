@@ -18,6 +18,8 @@
 
 ![Screenshot_9](https://github.com/kaankaltakkiran/php-proje-resimleri/assets/98158194/374ec979-bf52-40aa-a77e-e60b7c80b6e4)
 
+![Screenshot_25](https://github.com/kaankaltakkiran/php-proje-resimleri/assets/98158194/dcc9c141-8e69-4d66-b3fe-4fd509103706)
+
 ![Screenshot_10](https://github.com/kaankaltakkiran/php-proje-resimleri/assets/98158194/822942b2-a3fc-4e94-b756-1999819a15ca)
 
 ![Screenshot_11](https://github.com/kaankaltakkiran/php-proje-resimleri/assets/98158194/71d692b8-1ed9-486e-8b6e-075a9a963b79)
@@ -47,3 +49,5 @@
 ![Screenshot_23](https://github.com/kaankaltakkiran/php-proje-resimleri/assets/98158194/e824dfbb-2e76-4cd9-b664-6abdfa29bf47)
 
 ![Screenshot_24](https://github.com/kaankaltakkiran/php-proje-resimleri/assets/98158194/d639f131-ac11-4a06-8465-47c9339977c5)
+
+
