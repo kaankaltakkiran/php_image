@@ -32,6 +32,13 @@ Proje dosyları:https://github.com/kaankaltakkiran/blog
 
 Proje resimler:https:https://github.com/kaankaltakkiran/php-proje-resimleri/tree/main/blog_resimler
 
+## School Management System
+Php ile blog sitesi
+
+Proje dosyları:https://github.com/kaankaltakkiran/School_Management_System
+
+Proje resimler:
+
 
 
 
