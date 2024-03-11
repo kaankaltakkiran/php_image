@@ -37,7 +37,7 @@ Php ile Okul yönetim sistemi
 
 Proje dosyları:https://github.com/kaankaltakkiran/School_Management_System
 
-Proje resimler:https://github.com/kaankaltakkiran/php-proje-resimleri/tree/main/school_management_resimler
+Proje resimler:https://github.com/kaankaltakkiran/php-proje-resimleri/tree/main/school_management_resimler/images
 
 
 
