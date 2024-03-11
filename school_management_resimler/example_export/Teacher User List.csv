@@ -1,0 +1,6 @@
+"Teacher Id","Teacher Image","Teacher Name","Email","Class","Lessons","Gender","Address","Phone Number","BirthDate","Update","Delete"
+"1","","Veli Yıldız","veli@gmail.com","9/A,10/B,11/C,12/D","Math","Male","Address 1","23123112323","20 August 1975","Update","Delete"
+"2","","Ayse Yılmaz","ayse@gmail.com","9/A,11/B","Turkish","Famale","Address 2","12331223123","15 January 1980","Update","Delete"
+"3","","Spor Teacher","sporteacher@gmail.com","9/B,9/D,10/C,11/B,12/A","Spor","Famale","Address 3","05076600889","01 January 1968","Update","Delete"
+"4","","English Teacher","englishteacher@gmail.com","9/A,9/B,11/A,11/C,12/D","English","Famale","Address 4","12312312312","10 October 1972","Update","Delete"
+"5","","Science Teacher","scienceteacher@gmail.com","9/A,10/B,11/B,12/A,12/C","Science","Male","Address 5","12312312312","08 July 1965","Update","Delete"
