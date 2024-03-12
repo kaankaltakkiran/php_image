@@ -48,6 +48,10 @@
 
 ![Screenshot_24](https://github.com/kaankaltakkiran/php-proje-resimleri/assets/98158194/dfa62abb-beb6-4cff-bac9-bc446be81aff)
 
+![Screenshot_70](https://github.com/kaankaltakkiran/php-proje-resimleri/assets/98158194/abaa36d9-0d76-44de-8cdc-3e31866e79c5)
+
+![Screenshot_69](https://github.com/kaankaltakkiran/php-proje-resimleri/assets/98158194/d48faf11-ab0d-4bee-94e7-e6e7c09a5e77)
+
 ![Screenshot_25](https://github.com/kaankaltakkiran/php-proje-resimleri/assets/98158194/197371ed-4180-4509-8e9f-fa1fc07f4806)
 
 ![Screenshot_26](https://github.com/kaankaltakkiran/php-proje-resimleri/assets/98158194/9716ea48-d5ec-4a64-bec5-8f67d6228f95)
