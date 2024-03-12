@@ -70,6 +70,30 @@
 
 ![Screenshot_35](https://github.com/kaankaltakkiran/php-proje-resimleri/assets/98158194/8d68fab9-9fa0-4672-8729-2c0df4e8e3d5)
 
+![Screenshot_59](https://github.com/kaankaltakkiran/php-proje-resimleri/assets/98158194/c3fcd3c6-097f-457b-b0f8-5a3d359a3f60)
+
+![Screenshot_68](https://github.com/kaankaltakkiran/php-proje-resimleri/assets/98158194/def55930-ddd7-4d98-a9d4-468c8c00925a)
+
+![Screenshot_67](https://github.com/kaankaltakkiran/php-proje-resimleri/assets/98158194/16e9a9ad-d7c3-46a4-8d78-00ce0c6640a5)
+
+![Screenshot_66](https://github.com/kaankaltakkiran/php-proje-resimleri/assets/98158194/e88ab1dd-f546-4783-895c-f19921d57688)
+
+![Screenshot_65](https://github.com/kaankaltakkiran/php-proje-resimleri/assets/98158194/a7d9f5fc-950d-4381-9ed0-916f0fa85763)
+
+![Screenshot_64](https://github.com/kaankaltakkiran/php-proje-resimleri/assets/98158194/4e0c0e29-d88b-412b-8a81-20c23b72ae39)
+
+![Screenshot_63](https://github.com/kaankaltakkiran/php-proje-resimleri/assets/98158194/a98d44ba-a8b6-41ca-bb42-8e9dcd436e38)
+
+![Screenshot_62](https://github.com/kaankaltakkiran/php-proje-resimleri/assets/98158194/25fc1284-db86-4b58-b6c3-40db85859b3d)
+
+![Screenshot_61](https://github.com/kaankaltakkiran/php-proje-resimleri/assets/98158194/c57446ef-e366-4160-b12b-b5ae8b83bcf4)
+
+![Screenshot_60](https://github.com/kaankaltakkiran/php-proje-resimleri/assets/98158194/0565fdbf-92ca-481e-8841-ec673d7630ad)
+
+![Screenshot_58](https://github.com/kaankaltakkiran/php-proje-resimleri/assets/98158194/14738ee5-fbca-4a2b-80ff-f4bd0633b9b1)
+
+![Screenshot_57](https://github.com/kaankaltakkiran/php-proje-resimleri/assets/98158194/21843d9c-df18-4418-a6a1-125ad7d3dbc9)
+
 ![Screenshot_36](https://github.com/kaankaltakkiran/php-proje-resimleri/assets/98158194/503f22c0-a304-497a-8401-ea055edf151e)
 
 ![Screenshot_37](https://github.com/kaankaltakkiran/php-proje-resimleri/assets/98158194/3c50f615-deb1-4353-a5f9-3005e702ba8d)
