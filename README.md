@@ -3,7 +3,7 @@
 ## Contact
 - Proje kullanım amacı: **Php** ile geliştirilen bu proje **telefon rehberi** mantığında çalışmaktadır. Kullanıcı kişi ekleyebilir, telefon numarası veya isme göre arama yapabilir, kişi güncelleyebilir veya silebilir gibi özellikleri barındırmaktadır.
 
-- Proje dosyları:https://github.com/kaankaltakkiran/Contact-php
+- [Proje dosyları](https://github.com/kaankaltakkiran/Contact-php)
 
 - Proje resimleri:https://github.com/kaankaltakkiran/php-proje-resimleri/tree/main/contact_proje_resimler
 ## Customer Cari
