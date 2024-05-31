@@ -1,4 +1,4 @@
-# Site Resimleri
+# Bog Web Site Resimleri
 
 ![Screenshot_1](https://github.com/kaankaltakkiran/php-proje-resimleri/assets/98158194/4f6f25c2-2d69-41b6-a56a-b9c3078d44ee)
 
