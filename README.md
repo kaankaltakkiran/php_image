@@ -5,7 +5,7 @@
 
 - [Proje dosyları](https://github.com/kaankaltakkiran/Contact-php)
 
-- Proje resimleri:https://github.com/kaankaltakkiran/php-proje-resimleri/tree/main/contact_proje_resimler
+- [Proje resimleri](https://github.com/kaankaltakkiran/php-proje-resimleri/tree/main/contact_proje_resimler)
 ## Customer Cari
 - Proje kullanım amacı: **Php** ile geliştirilen bu proje **para transfer** mantığında çalışmaktadır. Kullanıcı siteye üye olup şirket hesabı açan kişilere para alıp gönderebilmektedir.
 
